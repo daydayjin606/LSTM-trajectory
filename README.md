@@ -10,3 +10,8 @@ https://github.com/UCF-SST-Lab/UCF-SST-CitySim1-Dataset
 
 ### Output
 ![image](./LSTM_OUTPUT.jpg)
+
+### Train Score RMSE (X): 14.84 ft 
+### Train Score RMSE (Y): 0.19 ft
+### Test Score RMSE (X): 108.76 ft
+### Test Score RMSE (Y): 0.49 ft
